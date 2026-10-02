@@ -6,7 +6,7 @@ A full-stack web app for logging workouts, tracking progress with estimated 1RM,
 getting data-driven recommendations for your next session. Built and maintained solo since
 March 2026, and used regularly by about a dozen lifters.
 
-![Run Program](Screenshot 2026-10-02 134126.png)
+![Run Program screen](Screenshot%202026-10-02%20134126.png)
 
 ## Why I built it
 
