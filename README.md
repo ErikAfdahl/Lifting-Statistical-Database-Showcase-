@@ -2,6 +2,8 @@
 
 *For lifters who want to see everything.*
 
+**[Try the live app](https://liftingstatisticaldatabase.onrender.com/)**
+
 A full-stack web app for logging workouts, tracking progress with estimated 1RM, and
 getting data-driven recommendations for your next session. Built and maintained solo since
 March 2026, and used regularly by about a dozen lifters.
