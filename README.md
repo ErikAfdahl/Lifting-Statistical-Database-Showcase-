@@ -82,7 +82,8 @@ Current version: 3.3.1. Planned work:
 
 - [ ] Per-exercise choice of 1RM formula (the Epley estimate is less reliable at very high reps)
 - [ ] Unit tests for the recommendation engine
-- [ ] More advanced progress modeling
+- [ ] Allow users to share programs by sharing a unique 6-digit alphanumerical code corresponding to each program
+- [ ] Allow users to select an interval of time to display on charts
 
 ## About
 
